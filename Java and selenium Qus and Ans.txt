@@ -1,0 +1,23 @@
+what is getters and setters in java?
+
+Getters and setters are used to protect your data, particularly when creating classes. 
+For each instance variable, a getter method returns its value while a setter method sets or updates its value. Given this, 
+getters and setters are also known as accessors and mutators, respectively.
+
+What is difference b/w this() and super() keyword?
+
+In java, super keyword is used to access methods of the parent class while this is used to access methods of the current class. 
+This keyword is a reserved keyword in java 
+i.e, we can't use it as an identifier.
+
+What is difference b/w primary key and foregin key?
+
+A primary key is used to ensure data in the specific column is unique. A foreign key is a column or group of 
+columns in a relational database table that provides a link between data in two tables
+
+What is diff b/w Test cases and test scenorios?
+
+A test Case is a set of actions executed to verify particular features or functionality, whereas a Test Scenario is any functionality that can be tested.
+Test Case is mostly derived from test scenarios, while Test Scenarios are derived from test artifacts like BRS and SRS.
+Test Case helps in exhaustive testing of an application, whereas Test Scenario helps in an agile way of testing the end-to-end functionality.
+Test Cases are focused on what to test and how to test, while Test Scenario is more focused on what to test.
